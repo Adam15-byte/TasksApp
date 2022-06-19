@@ -10,7 +10,7 @@ Traditional To Do App used to track tasks
 One screen App used for simple purpose of tracking a list of tasks. The elements in the list may be deleted by swiping to the left and clicking on the red trash icon.
 
 ## Technologies
-* React Native Reanimated
+* React Native Reanimated 2
 * Hooks: useCallback, useState
 
 ## Screenshots
